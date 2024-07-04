@@ -23,7 +23,7 @@
                 Phone phone2 = new Phone();
                 phone2.name = "Apple";
                 phone2.call();
-                System.out.println(phone2.color);
+                System.out.println(phone1.color);
             }
 
 
