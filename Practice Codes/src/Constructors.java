@@ -12,7 +12,7 @@ class Constructors {
     public static void main(String[] args) {
         Constructors obj = new Constructors();
         obj.meth();
-        Constructors obj1 = new Constructors();     ///automatically calls to the constructor when creating a object///
+        Constructors obj1 = new Constructors();     ///automatically calls to the constructor when creating a object////
 
 
     }
